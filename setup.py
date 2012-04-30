@@ -8,11 +8,11 @@ requires = [
 ]
 
 setup(
-    name='Gevent Websockets Example',
+    name='Gevent SocketIO Example',
     version='1.0',
-    description='Mini app using gevent and websockets',
+    description='Mini app using gevent and socketio',
     author='Greg Reinbach',
     author_email='greg@reinbach.com',
-    url='https://github.com/reinbach/gevent-websocket-example',
+    url='https://github.com/reinbach/gevent-socketio-example',
     install_requires=requires,
 )
